@@ -10,7 +10,7 @@ function Admin() {
 
   // Function to handle redirection to add_user_dashboard
   const redirectToAddUserDashboard = () => {
-    window.location.href = 'add_user_dashboard.html';
+    window.location.href = 'CreateUser';
   };
 
   return (
